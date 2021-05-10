@@ -1,6 +1,6 @@
 {
-	"version": "1.0",
-	"download": "https://crismod.ml",
+	"version": "2.0",
+	"download": "https://crismod.ml/com.wakey.crismod",
 	"update": [
 		{
 			"languaje": "es",
